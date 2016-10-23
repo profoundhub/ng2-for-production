@@ -1,4 +1,5 @@
 node_modules
+yarn-error.log
 
 # Windows image file caches
 Thumbs.db
